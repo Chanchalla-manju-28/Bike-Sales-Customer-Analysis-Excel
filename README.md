@@ -8,7 +8,7 @@ demographics, income levels, regions, and commute distances.
 ---
 
 ## 📸 Dashboard Preview
-![Bike Sales Dashboard](dashboard.png)
+![Bike Sales Dashboard](Dashboard.png)
 
 ---
 
