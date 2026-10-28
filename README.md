@@ -83,7 +83,6 @@ demographics, income levels, regions, and commute distances.
 
 ## 📂 File Structure
 
-
 ---
 
 ## 🛠️ Tools & Skills Used
@@ -97,7 +96,7 @@ demographics, income levels, regions, and commute distances.
 ---
 
 ## 🚀 How to Use
-1. Download `Excel_Project_Dataset.xlsx`
+1. Download `Excel Project Dataset.xlsx`
 2. Open in **Microsoft Excel 2016 or later**
 3. Go to the **Dashboard** sheet to explore visual insights
 4. Use **slicers** to filter by Marital Status, Region & Education
@@ -106,10 +105,10 @@ demographics, income levels, regions, and commute distances.
 ---
 
 ## 👤 Author
-**[Your Name]**
-📧 [your.email@gmail.com]
-🔗 [LinkedIn Profile URL]
-🌐 [Portfolio/Naukri URL]
+**Chanchalla Manju**
+📧 manjuchanchalla@gmail.com
+🔗 www.linkedin.com/in/chanchalla-manju-0688062a3
+
 
 ---
 
