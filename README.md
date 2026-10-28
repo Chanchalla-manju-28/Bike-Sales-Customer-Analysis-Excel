@@ -82,6 +82,18 @@ demographics, income levels, regions, and commute distances.
 ---
 
 ## 📂 File Structure
+```
+Bike-Sales-Customer-Analysis-Excel/
+│
+├── Excel Project Dataset.xlsx   # Main Excel file with all 4 sheets
+│   ├── bike_buyers              # Raw dataset (1,026 rows)
+│   ├── Working Sheet            # Cleaned data + Age Brackets column
+│   ├── Pivot Tables             # All pivot table analysis
+│   └── Dashboard                # Interactive KPI Dashboard
+│
+├── Dashboard.png                # Dashboard screenshot
+└── README.md                    # Project documentation
+```
 
 ---
 
