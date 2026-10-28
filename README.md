@@ -82,3 +82,38 @@ demographics, income levels, regions, and commute distances.
 ---
 
 ## 📂 File Structure
+
+
+---
+
+## 🛠️ Tools & Skills Used
+- **Microsoft Excel** — Primary tool
+- **Data Cleaning** — Standardizing labels, removing inconsistencies
+- **Feature Engineering** — Creating Age Brackets from raw Age data
+- **Pivot Tables** — Multi-dimensional analysis
+- **Dashboard Design** — Charts, KPIs, and interactive slicers
+- **Customer Segmentation** — Demographic & behavioral analysis
+
+---
+
+## 🚀 How to Use
+1. Download `Excel_Project_Dataset.xlsx`
+2. Open in **Microsoft Excel 2016 or later**
+3. Go to the **Dashboard** sheet to explore visual insights
+4. Use **slicers** to filter by Marital Status, Region & Education
+5. Check **Pivot Tables** sheet for detailed breakdowns
+
+---
+
+## 👤 Author
+**[Your Name]**
+📧 [your.email@gmail.com]
+🔗 [LinkedIn Profile URL]
+🌐 [Portfolio/Naukri URL]
+
+---
+
+## 🏷️ Tags
+`Excel` `Data Analysis` `Customer Segmentation` `Dashboard` 
+`Pivot Tables` `Data Cleaning` `Feature Engineering` 
+`Business Intelligence` `Portfolio Project` `Bike Sales`
